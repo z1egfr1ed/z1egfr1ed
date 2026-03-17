@@ -3,7 +3,7 @@
 Hi, I'm Marshel 👋<br><br>Backend Dev specialized in Node.js, Express.js, and PostgreSQL.<br>I enjoy building RESTful APIs, handling authentication flows and designing relational databases.<br><br>Currently studying **Pentesting & Cybersecurity** 🔐<br><br>📚 3rd year Systems student<br>🌐 English B2 | Spanish native
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,docker,bash,linux,postman,prisma,vscode,py,html,css,notion,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,docker,bash,linux,postman,prisma,vscode,py,notion,github,git)](https://skillicons.dev)
 
 ### Publications
 <div>
